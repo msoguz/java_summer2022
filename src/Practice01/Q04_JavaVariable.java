@@ -37,11 +37,20 @@ public class Q04_JavaVariable {
         System.out.println("update yil " + yil);
 
 
-
         //Bir degisken tanimlayin : x
+        int x;
+
+
         //Baska bir degiskeni initialize edin : y
+        int y=2000;
         //x degiskenini initialize edin
+        x=30;
+
         //y degiskenini yeni bir degerle guncelleyin
+        y=1;
+
+        System.out.println("x = " + x);
+        System.out.println("y = " + y);
 
     }
 }
