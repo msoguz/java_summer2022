@@ -1,4 +1,4 @@
-package day10StringManipulation;
+package day10_stringManipulations;
 
 import java.util.Locale;
 

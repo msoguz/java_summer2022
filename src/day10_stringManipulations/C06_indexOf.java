@@ -1,4 +1,4 @@
-package day10StringManipulation;
+package day10_stringManipulations;
 
 public class C06_indexOf {
     public static void main(String[] args) {
@@ -15,8 +15,8 @@ public class C06_indexOf {
                                               // Java -1 dondurmeyi tercih etmistir.
 
         String str5="sdfggdfg ghfghjghf ;klkhlj sdfgdsfg sdffghhshhhhsdfh hhsdhswerepoiuytrr";
-        // str5'de p harfi  var mi?
 
+        // str5'de p harfi  var mi?
         if (str5.indexOf("p")==-1) {
             System.out.println("str5'de istenen harf kullanilmamistir");
         }else{

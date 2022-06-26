@@ -1,4 +1,4 @@
-package day10StringManipulation;
+package day10_stringManipulations;
 
 public class C01_charAt {
     public static void main(String[] args) {
