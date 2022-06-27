@@ -10,7 +10,7 @@ public class C04_contains {
         - iki kelimeyi de icermiyorsa “Cumle kucuk yada buyuk kelimesi icermiyor” yazdirin.
          */
 
-        String cumle="Java buyuk,  dunya kucuk";
+        String cumle="Java buyuktur,  dunya da";
         cumle=cumle.toLowerCase();
 
         // requirements'de buyuk harf kucuk harf hassasiyeti hakkinda birsey soylenmemis.
