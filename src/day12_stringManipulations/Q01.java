@@ -5,7 +5,7 @@ public class Q01 {
 
        /*
        String methodlarini kulanarak " Java ogrenmek123 Cok guzel@ " String'ini
-       "Java ogrenmek cok guzel" sekline getirin.
+       "Java ogrenmek cok guzel." sekline getirin.
 
        */
 
@@ -22,6 +22,7 @@ public class Q01 {
         str=str.replaceAll("xqax", " ");
         System.out.println(str);
         str=str.replace("C", "c");
+        str=str+".";
         System.out.println(str);
 
 
