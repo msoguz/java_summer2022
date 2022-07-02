@@ -66,7 +66,5 @@ public class Q01_ {
         System.out.println("iki sayi girmeyi tercih ettiniz " + "\nGirilen iki sayinin toplami :" + (sayi1 + sayi2));
 
 
-
-
     }
 }
