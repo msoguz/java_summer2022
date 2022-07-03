@@ -12,7 +12,6 @@ public class C01StringManipulation {
 
         */
 
-
         String str1 = "$13.99";
         String str2 = "$10.55";
         str1=str1.replaceAll("\\D","");
