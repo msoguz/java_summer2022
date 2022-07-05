@@ -24,7 +24,5 @@ public class C03_substring {
 
         System.out.println(isimIlkHarf+isimGeriyeKalanlar+ " " + soyIsimIlkHarf+soyIsimGeriyeKalanlar+ "\n"+kkIlk4+kkGeriyeKalanlar);
 
-
-
     }
 }

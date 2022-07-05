@@ -35,8 +35,5 @@ public class Q7_Converting {
         System.out.println("girdiginiz fahrenayt degeri :" + (fh-32)*5/9 + " santigrata esittir");
 
 
-
-
-
     }
 }
