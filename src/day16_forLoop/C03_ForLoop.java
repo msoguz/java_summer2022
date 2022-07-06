@@ -9,7 +9,7 @@ public class C03_ForLoop {
 
         for (int i =bas ; i <=son ; i++) {
             if(i<son){
-                System.out.println(i+",");
+                System.out.print(i+",");
             }else{
                 System.out.println(i);
             }

@@ -7,7 +7,7 @@ public class C08_Faktoriyel {
         // verilen sayi 0, negatif veya 20'den buyuk olursa "girilen sayinin faktoriyeli hesaplanmaz"
         //uyarisi yazdirin.
 
-        int input=21;
+        int input=7;
         faktoriyelHesapla(input);
 
     }

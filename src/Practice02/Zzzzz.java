@@ -10,6 +10,5 @@ public class Zzzzz {
         int sayi2=(int)input;
 
         System.out.println(sayi2);
-
     }
 }

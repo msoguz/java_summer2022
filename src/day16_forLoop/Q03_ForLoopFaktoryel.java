@@ -18,8 +18,7 @@ public class Q03_ForLoopFaktoryel {
         for (int i=1; i<=sayi; i++) {
             faktoryel*=i;
 
-            System.out.print(faktoryel);
         }
-
+        System.out.print(faktoryel);
     }
 }
