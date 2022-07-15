@@ -19,14 +19,10 @@ public class C03_Contains {
         }else{
             System.out.println("Girilen isim liste yok");
         }
-
-
-
     }
 
     public static boolean contains(String[] isimler, String arananIsim) {
         boolean sonucMethod=false;
-
 
         for (int i = 0; i < isimler.length ; i++) {
             if(isimler[i].equalsIgnoreCase(arananIsim)) {
