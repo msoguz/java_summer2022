@@ -7,7 +7,6 @@ public class C01_Array_MaxSayiyiBulma {
         int[] sayilar={3,5,7,1,4,9,5,2};
 
         maxSayiyiYazdir(sayilar);
-
     }
 
     public static void maxSayiyiYazdir(int[] sayilar) {
@@ -19,7 +18,6 @@ public class C01_Array_MaxSayiyiBulma {
             }
 
         }
-
 
         System.out.println("Arraydeki en buyuk sayi : "+maxSayi);
 

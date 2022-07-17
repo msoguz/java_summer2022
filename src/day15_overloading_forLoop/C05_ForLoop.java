@@ -45,7 +45,7 @@ public class C05_ForLoop {
 
         System.out.println("toplam = " + toplam); //440
 
-         // 1500 ile 1600 (ainirlar dahil) arasinda 7 ile bolunebilen sayilari toplayin.
+         // 1500 ile 1600 (sinirlar dahil) arasinda 7 ile bolunebilen sayilari toplayin.
 
         toplam=0;
 

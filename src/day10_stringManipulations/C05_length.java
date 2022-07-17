@@ -19,8 +19,7 @@ public class C05_length {
 
         String str3=null; // str3'e bir deger atanmis midir? HAYYIR
                           // null bu deger atamamayi isaret etmektedir.
-        System.out.println(str3.length()); //Exception in thread "main" java.lang.NullPointerException
-
+       // System.out.println(str3.length()); //Exception in thread "main" java.lang.NullPointerException
 
 
     }

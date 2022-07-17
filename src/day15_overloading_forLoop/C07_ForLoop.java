@@ -10,7 +10,9 @@ public class C07_ForLoop {
 
         for (int i = 100; i >=1 ; i--) {
             if(i%8==0){
+
                 System.out.print(i+" ");  // 96 88 80 72 64 56 48 40 32 24 16 8
+
             }
 
             

@@ -1,4 +1,4 @@
-package day22_multiDdimensionalArrays;
+package day22_multiDimensionalArrays;
 
 public class C02_MdaTumElemenleriYazdirma {
     public static void main(String[] args) {
