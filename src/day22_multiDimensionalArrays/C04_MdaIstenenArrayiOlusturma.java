@@ -20,14 +20,11 @@ public class C04_MdaIstenenArrayiOlusturma {
             for (int j = 0; j <input[i].length ; j++) { // ic loop ise inner array'leri gezer.
 
                 toplam+=input[i][j];
-
             }
             yeniArray[i]=toplam;
             toplam=0;
 
-
         }
-
         System.out.println("istenen yeni array : " + Arrays.toString(yeniArray)); //istenen yeni array : [6, 9, 13]
     }
 }

@@ -14,11 +14,7 @@ public class C05_ArrayeElementEkleme {
         sinifListesi = elemanEkle(sinifListesi, eklenecekIsim);
         System.out.println(Arrays.toString(sinifListesi));
 
-
     }
-
-
-
 
     public static String[] elemanEkle(String[] sinifListesi, String eklenecekIsim) {
 
