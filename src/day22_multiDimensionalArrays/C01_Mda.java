@@ -19,7 +19,7 @@ public class C01_Mda {
         Burada sayilar arrray'ini dusunursek icinde iki tane inner array var.
         sayilar[0]==> [1,2,4,5]
 
-        Ancak en icerideki elemenlere ulasabilirsek direkt yazdirabiliriz.
+        Ancak en icerideki elementlere ulasabilirsek direkt yazdirabiliriz.
          */
 
         System.out.println(sayilar[0]);   //[I@3ac3fd8b
@@ -27,7 +27,7 @@ public class C01_Mda {
 
 
         System.out.println(sayilar[0][1]); //  2  - sifirinci inner array'in 1. index'teki elementi.
-        System.out.println(sayilar[1][0]);// 3 1. inner array'in sifirinci 1. index'teki elementi.
+        System.out.println(sayilar[1][0]); //  3   - 1. inner array'in sifirinci 1. index'teki elementi.
 
 
         System.out.println(Arrays.toString(sayilar) ); //[[I@3ac3fd8b, [I@5594a1b5] bize iki referans verir.

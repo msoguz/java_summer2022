@@ -36,7 +36,6 @@ public class Q12_Interview {
         for (int i = 1; i <=n ; i++) {
             sonuc=sonuc+ s; // sonuc+=s;
 
-
         }
 
         return sonuc;

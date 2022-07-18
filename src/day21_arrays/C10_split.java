@@ -13,6 +13,8 @@ public class C10_split {
          */
 
         String str="Java ne kadar guzel";
+
+
         String[] kelimeler= str.split(" ");
         System.out.println(Arrays.toString(kelimeler));  //[Java, ne, kadar, guzel]
 
@@ -26,7 +28,6 @@ public class C10_split {
 
         String[] karakterler= str.split("");
         System.out.println(Arrays.toString(karakterler)); //[J, a, v, a,  , n, e,  , k, a, d, a, r,  , g, u, z, e, l]
-
 
 
     }

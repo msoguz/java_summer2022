@@ -34,8 +34,8 @@ public class C02_EnUzunVeKisaKelime {
 
 
 /*  Aciklama +++++++++++++++++++++++++++++++++================================================================
- for (int i = 1; i <isimler.length ; i++) { // 1inci indexten baslarız cunku 0 ı yukarıda aldık
-                                                    //length de parantez yok cunku Array length, stringte length yanina parantez koy
+ for (int i = 1; i <isimler.length ; i++) { // 1inci indexten baslarız cunku 0'ı yukarıda aldık
+                                            //length de parantez yok cunku Array length, stringte length yanina parantez koy
                                                 //burada iki tane bağımsız if yaparız biri uzun biri kisa icin
             if (isimler[i].length() > enUzunKelime.length()) {//burada stringin uzunlugunu aldığımız icin length in yanında parantez kullaniyoruz.
                 enUzunKelime=isimler[i];

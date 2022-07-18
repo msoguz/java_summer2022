@@ -12,9 +12,11 @@ public class C06_List {
          */
         List<String> isimler= new ArrayList<>();
         System.out.println(isimler); // []
+
         // bir list'e eleman eklemek istersek
         isimler.add("Basak");
         System.out.println(isimler.add("Ayse")); // true doner
+
         /*
          String'de bir method calistirdigimizda
          assign yapmazsak String degismiyordu
@@ -22,7 +24,9 @@ public class C06_List {
          isim.toUpperCase(); // SULEYMAN
          sout(isim) --> Suleyman
          */
+
         System.out.println(isimler); // [Basak, Ayse]
+
         /*
          List'in tek kotu tarafi array alt yapisini kullandigi icin
          elemanlari birer birer eklemek zorunda olmamizdir

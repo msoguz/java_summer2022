@@ -1,6 +1,6 @@
 package day22_multiDimensionalArrays;
 
-public class C02_MdaTumElemenleriYazdirma {
+public class C02_MdaTumElementleriYazdirma {
     public static void main(String[] args) {
 
         // verilen bir multi dimensional array'in tum elementlerini yazdiran bir method olusturun.

@@ -12,13 +12,8 @@ public class C03_IndexOf {
         urunler.add("Ikram");
         urunler.add("Biskrem");
         urunler.add("Cay");
-
-        System.out.println(urunler);//[Nutella, Ikram, Biskrem, Cay]
-        System.out.println(urunler.indexOf("Ikram"));//1
-        System.out.println(urunler);//[Nutella, Ikram, Biskrem, Cay]
-
         /*
-        indexOf method'u bize bilgi dndurur. Listemizi degistirmez.
+        indexOf method'u bize bilgi dondurur. Listemizi degistirmez.
 
          */
 
