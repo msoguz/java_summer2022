@@ -7,13 +7,12 @@ public class Car {
     Bir araba olusturmak icin ihtiyacimiz olan variable ve methodlari bu classta belirleriz.
     Sonra farkli classlarda araba olusturmamiz gerekirse bu class'ta bir obje olusturp burada
     belirlenen variable ve methodlara gore araba uretiriz.
-
      */
 
-    String marka="Marka belirtilmedi";
-    String model="Model belirtilmedi";
-    int yil;
-    int fiyat;
+    public String marka="Marka belirtilmedi";
+    public String model="Model belirtilmedi";
+    public int yil;
+    public int fiyat;
 
 
     public void benzinliArac(){

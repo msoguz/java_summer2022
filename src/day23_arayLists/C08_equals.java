@@ -22,11 +22,11 @@ public class C08_equals {
         urunler2.add("Cekirdek");
 
 
-        System.out.println(urunler.equals(urunler2));
+        System.out.println(urunler.equals(urunler2)); //false
 
         Collections.sort(urunler);
         Collections.sort(urunler2);
 
-        System.out.println(urunler.equals(urunler));
+        System.out.println(urunler.equals(urunler2));//true
     }
 }

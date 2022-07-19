@@ -14,9 +14,10 @@ public class C009_ArraydenListYapmak {
 
         Integer[] arr={2,3,5,6,8,4,2,6,9,0,1,3,6,4,2,7,0};
         /*
-        Bu kadar cok elemanli bir listeyi tek tek eleman olarak girmek yerine array olusturup,
+        Bu kadar cok elemanli bir listeyi tek tek eleman olarak girmek yerine ARRAY OLUSTURUP,
         for loop ile olusturdugumuz list'e tasiyabiliriz.
          */
+
         List<Integer> sayilar=new ArrayList<>();
 
         for (int i = 0; i <arr.length ; i++) {

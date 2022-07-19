@@ -21,8 +21,6 @@ public class C07_sort {
         List ile gelen sort method'unda siralama ozelligini girmek gerekir.
         Bunun yerine Collections class'indan sort method'unu kullaniriz.
         Bu method listemizi natural order'a(dogal) gore siralar.
-
-
          */
 
     }
