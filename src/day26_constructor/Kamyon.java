@@ -20,8 +20,8 @@ public class Kamyon {
           instance marka'ya gitmiyor
           Bu karisikligi gidermek icin instance variable'lari
           belirli hale getirmemiz lazim
-          Java bunun icin this keyword'u olusturmustur
-          Genel kullanim acisindan this keyord'u kodu herkesin anlamasini
+          Java bunun icin this keyword'u olusturmustur.
+          Genel kullanim acisindan this keyord'u, kodu herkesin anlamasini
           kolaylastirdigi icin tercih edilir
          */
     }
