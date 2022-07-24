@@ -7,11 +7,7 @@ public class C04_Immutable {
         mutable : degistirilebilir
 
         en meshur immutable class : String
-
-
          */
-
-
 
         String str="Yildiz Bank";
 
@@ -20,7 +16,7 @@ public class C04_Immutable {
         str.toLowerCase();
         System.out.println(str);//Yildiz Bank
 
-        str.substring(3,5); // di , ama sout yapmadigimiz icin yazdirmaz.
+        str.substring(3,5); //yazdirsaydik di yazdirirdi, ama sout yapmadigimiz icin yazdirmaz.
 
         System.out.println(str);//Yildiz Bank
 
@@ -35,7 +31,6 @@ public class C04_Immutable {
 
         sb.append(".");
         System.out.println(sb);//knaB avaJ.
-
 
     }
 }

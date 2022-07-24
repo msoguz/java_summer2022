@@ -17,20 +17,18 @@ public class C02_PassByValue {
          */
 
 
-
-
         /*
-        verilen 4 elemanli bir array i method a gonderelim method da
-        yeni 3 elemanli bir array atayip bu yeni array e rastgele 100 den kucuk
-        3 sayi atayalim method da array i yazdiralim
+        verilen 4 elemanli bir array'i method'a gonderelim method'da
+        yeni 3 elemanli bir array atayip bu yeni array'e rastgele 100'den kucuk
+        3 sayi atayalim method'da array'i yazdiralim
 
-        main method da da method call dan sonra yeniden method u yazdiralim
+        main method'da da method call dan sonra yeniden method'u yazdiralim
          */
 
         int [] arr={3,5,8,10};
 
         arrayiDegistir(arr);
-        System.out.println("Method call'dan sonra main method'da array : " + Arrays.toString(arr));
+        System.out.println("Method call'dan sonra main method'da array : " + Arrays.toString(arr));//[3, 5, 8, 10]
     }
 
     public static void arrayiDegistir(int[] arr) {
@@ -40,7 +38,7 @@ public class C02_PassByValue {
         arr[1]=rand.nextInt(100);
         arr[2]=rand.nextInt(100);
 
-        System.out.println("Method'da array : " + Arrays.toString(arr));
+        System.out.println("Method'da array : " + Arrays.toString(arr));//[87, 26, 95]
 
     }
 }

@@ -13,7 +13,7 @@ public class Q06 {
         char karakter= scan.next().charAt(0);
 
         System.out.println(karakter>='a' && karakter<='z' ? ("Kucuk harf" ): (karakter>='A' && karakter<='Z' ?
-                "Buyk Harf" :"Girdiginiz karakter harf degil"));
+                "Buyuk Harf" :"Girdiginiz karakter harf degil"));
 
 
 

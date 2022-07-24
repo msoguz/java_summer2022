@@ -15,6 +15,6 @@ public class C05_Immutable {
             isim+=".";
 
         }
-        System.out.println(isim);
+        System.out.println(isim);//Mevlut....................................................................................................
     }
 }

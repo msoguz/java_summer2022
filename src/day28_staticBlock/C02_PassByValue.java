@@ -11,7 +11,7 @@ public class C02_PassByValue {
         System.out.println(satisFiyati);
 
         System.out.println(indirimliFiyat(satisFiyati));
-        //iki farkli scop'ta
+        //iki farkli method'da satisFiyati isminde variable olabilir.
         //java buna itiraz etmez cunku scop'lari farklidir.
     }
 

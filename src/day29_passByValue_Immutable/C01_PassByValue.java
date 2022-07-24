@@ -14,7 +14,7 @@ public class C01_PassByValue {
 
         elemanDegistir(arr);
 
-        System.out.println("main methodun icinde diger method calistiktan sonr : " + Arrays.toString(arr));//
+        System.out.println("main methodun icinde diger method calistiktan sonr : " + Arrays.toString(arr));//[5, 96, 8, 85]
     }
 
     public static void elemanDegistir(int[] arr) {
@@ -22,7 +22,7 @@ public class C01_PassByValue {
         Random rnd= new Random();
         arr[1]= rnd.nextInt(100);
         arr[3]= rnd.nextInt(100);
-        System.out.println("methodun icinde : " + Arrays.toString(arr));  //[5, 61, 8, 38]
+        System.out.println("methodun icinde : " + Arrays.toString(arr));  //[5, 96, 8, 85]
 
 
     }
