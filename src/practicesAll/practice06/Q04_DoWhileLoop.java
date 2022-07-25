@@ -26,7 +26,7 @@ public class Q04_DoWhileLoop {
                 System.out.println("Girilen kelime 3 karakterden az olamaz");
             }
             if (word.length() % 2 == 1 && word.length() >= 3) {
-                System.out.println("rtadaki karakter : " + word.charAt(word.length() / 2));
+                System.out.println("ortadaki karakter : " + word.charAt(word.length() / 2));
             } else {
                 System.out.println("You entered wrong word.");
             }
