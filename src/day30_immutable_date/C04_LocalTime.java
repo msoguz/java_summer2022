@@ -11,7 +11,7 @@ public class C04_LocalTime {
 
         /*
         Bizim olusturdugumuz date ve time canli saat veya tarih degildir.
-        LocalTime.now(); kullandigimiz satirda o anki taih veya saati alip bizim variable'imiza store eder.
+        LocalTime.now(); kullandigimiz satirda o anki tarih veya saati alip bizim variable'imiza store eder.
         time1 variable'inin degeri sabittir.
          */
 

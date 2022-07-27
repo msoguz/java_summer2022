@@ -10,13 +10,5 @@ public class C06_StringBuilder {
 
 
 
-
-
-
-
-
-
-
-
     }
 }
