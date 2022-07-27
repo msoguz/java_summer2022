@@ -9,6 +9,10 @@ public class C02_Append {
 
         //append istedigimiz string'i en sona ekler. int, char, string, boolean ekler.
 
+        sb.append("Java",2,4);
+        System.out.println(sb); //Java her seyi dusunmus valla, daha ne yapsin?va
+
+
         sb.insert(4, " her seyi dusunmus,");
         System.out.println(sb);
 

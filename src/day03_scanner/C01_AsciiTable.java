@@ -13,7 +13,7 @@ public class C01_AsciiTable {
         System.out.println(sayi+harf); // 10 a degil 107 oldu
         System.out.println(str+harf); // banana
 
-        System.out.println(sayi*harf);
+        System.out.println(sayi*harf);//970
 
         System.out.println(harf+2); //99
         System.out.println(str+sayi+harf); //banan10a
