@@ -20,9 +20,9 @@ public class C02_Basit_IfStatements {
 
         /*
         Basit if cumleleri kodun diger parcalarindan bagimsizdir
-        sadece bir sart kontrol eder. SArt saglaniyorsa if body calisir, yoksa calismaz.
+        sadece bir sart kontrol eder. Sart saglaniyorsa if body calisir, yoksa calismaz.
         Birden fazla basit if body varsa girilen sarta bagli olarak,
-        tumunde if body calisabilir, kismmen if body calisabilir veya hicbir if body calismayabilir.
+        tumunde if body calisabilir, kismen if body calisabilir veya hicbir if body calismayabilir.
          */
     }
 }

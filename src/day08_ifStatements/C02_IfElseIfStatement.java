@@ -14,7 +14,6 @@ public class C02_IfElseIfStatement {
         Gecersiz not girildiginde uyari verelim
          */
 
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("Lutfen 0'dan 100'e kadar bir not degeri giriniz");
         double note=scanner.nextDouble();

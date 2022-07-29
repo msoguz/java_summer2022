@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class C07_IfElseIfStatements {
     public static void main(String[] args) {
 
-
         //Bir onceki soruda kullanici negatif deger girerse uyaralim
 
         /*
@@ -13,7 +12,6 @@ public class C07_IfElseIfStatements {
         eger else ile bitiyorsa butun ihtimaller kapsaniyor demektir.
         Ama else if ile bitiyorsa kapsanmayan durumlar olabilir.
          */
-
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen yasinizi giriniz");

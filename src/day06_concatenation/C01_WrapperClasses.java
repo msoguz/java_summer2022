@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class C01_WrapperClasses{
 
     public static void main(String[] args) {
-
-
         /*
         Wrapper class'lar java'nin hazir methodlari kullanabilmemiz icin
         primitive data turlerinin herbiri icin actigi class'lardir.

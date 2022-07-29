@@ -33,8 +33,8 @@ public class C03_NestedIfElse {
 
             if (yas < 0 || yas > 80) {
                 System.out.println("Gecerli yas giriniz");
-            } else if (yas < 65) {
-                System.out.println("Emekli olamazsin \nDaha " + (65 - yas) + " yil calismalisin");
+            } else if (yas < 60) {
+                System.out.println("Emekli olamazsin \nDaha " + (60 - yas) + " yil calismalisin");
             } else {
                 System.out.println("Emekli olabilirsin");
 

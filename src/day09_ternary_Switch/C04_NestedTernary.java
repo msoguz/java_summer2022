@@ -15,9 +15,9 @@ public class C04_NestedTernary {
         //String sonuc=(harf>='a' && harf<='z') ? ("Kucuk Harf") :("Buyuk harf veya gecersiz karakter");
 
 
-        String sonuc=(harf>='a' && harf<='z') ? ("Kucuk Harf") : ((harf>='A' && harf<='Z') ? "Buyuk Harf" : "Gecersiz karakter");
+        String sonuc=(harf>='a' && harf<='z') ? ("Kucuk Harf") : ((harf>='A' && harf<='Z') ? "Buyuk Harf" : "girdiginiz karakter harf degil");
 
-        String sonuc2=harf>='a' && harf<='z' ? "Kucuk Harf" : harf>='A' && harf<='Z' ? "Buyuk Harf" : "Gecersiz karakter";
+        String sonuc2=harf>='a' && harf<='z' ? "Kucuk Harf" : harf>='A' && harf<='Z' ? "Buyuk Harf" : "girdiginiz karakter harf degil";
 
 
         System.out.println(sonuc);

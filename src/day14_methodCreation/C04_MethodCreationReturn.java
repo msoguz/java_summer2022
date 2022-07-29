@@ -11,8 +11,8 @@ public class C04_MethodCreationReturn {
         String soyIsim="Bozkurt";
 
         String gizliIsim=isimGizle(isim, soyIsim);
-        System.out.println(isim+ " " + soyIsim);
-        System.out.println(gizliIsim);
+        System.out.println(isim+ " " + soyIsim);//Enes Bozkurt
+        System.out.println(gizliIsim); //E*** B******
 
 
 

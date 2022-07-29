@@ -11,7 +11,7 @@ public class C01_charAt {
         System.out.println(str.charAt(21));  //L
 
         // son harfi bulmak icin st'in uzunlugunun 1 eksigini index olarak gireriz
-        // eger index olarak uzunlugu veya daha bir sayiyi girersek Java exception verir
+        // eger index olarak uzunlugu veya daha buyuk bir sayiyi girersek Java exception verir
 
 
         // charAt() methodu kullandigimizda sonuc char olacagi icin artik manipulation yapamayiz.

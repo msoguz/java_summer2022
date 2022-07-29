@@ -48,7 +48,7 @@ public class C02_StringManipulation {
         if (kontrol==4){
             System.out.println("Sifre basari ile tanimlandi");
         }else{
-            System.out.println("Islem basarisiz,Lutfen yeni bir sifre girin");
+            System.out.println("Islem basarisiz, Lutfen yeni bir sifre girin");
         }
 
 

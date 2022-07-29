@@ -13,6 +13,11 @@ public class C02_toLowerCase_toUpperCase {
 
         /*
         Eger buyuk-kucuk harf donusumunde locl bir dili esas almak isterseniz bu method kullanilabilir.
+
          */
+
+        str=str.toLowerCase();
+        System.out.println(str);
+
     }
 }

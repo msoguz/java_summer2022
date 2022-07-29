@@ -7,7 +7,7 @@ public class C01_replace {
         System.out.println(str.replace(" ", ""));
 
 
-        // hava kelimseini java yapalim
+        // hava kelimesini java yapalim
 
         System.out.println(str.replace("h", "J").replace(" ", ""));
 
